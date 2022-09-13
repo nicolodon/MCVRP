@@ -1,0 +1,6 @@
+matplotlib==3.5.0
+networkx==2.6.3
+numpy==1.20.3
+scipy==1.7.3
+z3==0.2.0
+z3_solver==4.10.2.0
