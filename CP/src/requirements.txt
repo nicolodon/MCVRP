@@ -1,0 +1,5 @@
+matplotlib==3.5.0
+minizinc==0.7.0
+networkx==2.6.3
+numpy==1.20.3
+scipy==1.7.3
